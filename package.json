@@ -1,32 +1,32 @@
 {
-  "name": "pdfgeneratorapi",
-  "version": "1.0.0",
-  "description": "JavaScript module for pdfgeneratorapi.com",
-  "main": "index.js",
-  "dependencies": {
-    "axios": "^0.17.1"
-  },
-  "directories": {
-    "test": "test"
-  },
-  "devDependencies": {
-    "mocha": "^4.1.0"
-  },
-  "scripts": {
-    "test": "mocha"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/actualreports/pdfgeneratorapi-nodejs.git"
-  },
-  "keywords": [
-    "pdf-generator",
-    "pdf-creator"
-  ],
-  "author": "Actual Reports",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/actualreports/pdfgeneratorapi-nodejs/issues"
-  },
-  "homepage": "https://pdfgeneratorapi.com"
+    "name": "pdf-generator-api",
+    "version": "1.0.1",
+    "description": "JavaScript module for pdfgeneratorapi.com",
+    "main": "index.js",
+    "dependencies": {
+        "axios": "^0.17.1"
+    },
+    "directories": {
+        "test": "test"
+    },
+    "devDependencies": {
+        "mocha": "^4.1.0"
+    },
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/actualreports/pdfgeneratorapi-nodejs.git"
+    },
+    "keywords": [
+        "pdf-generator",
+        "pdf-creator"
+    ],
+    "author": "Actual Reports",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/actualreports/pdfgeneratorapi-nodejs/issues"
+    },
+    "homepage": "https://pdfgeneratorapi.com"
 }

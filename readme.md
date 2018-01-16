@@ -1,10 +1,10 @@
 # JavaScript module for pdfgeneratorapi.com
-[PDF Generator API](https://pdfgeneratorapi.com).
+JavaScript module for [PDF Generator API](https://pdfgeneratorapi.com).
 
 ### Install
 Require this package with npm using the following command:
 ```bash
-npm install pdfgeneratorapi --save
+npm install pdf-generator-api --save
 ```
 
 
