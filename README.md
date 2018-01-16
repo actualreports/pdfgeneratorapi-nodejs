@@ -1,4 +1,4 @@
-# JavaScript module for for pdfgeneratorapi.com
+# JavaScript module for pdfgeneratorapi.com
 [PDF Generator API](https://pdfgeneratorapi.com).
 
 ### Install
