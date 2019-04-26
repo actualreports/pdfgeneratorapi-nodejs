@@ -6,7 +6,7 @@ const querystring = require('querystring');
 class PDFGeneratorAPI {
   constructor(key, secret, workspace, timeout)
   {
-    this.baseUrl = 'https://pdfgeneratorapi.com/api/v3/';
+    this.baseUrl = 'https://us1.pdfgeneratorapi.com/api/v3/';
     this.key = key;
     this.secret = secret;
     this.workspace = workspace;

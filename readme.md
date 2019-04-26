@@ -14,7 +14,7 @@ let Client = new PDFGeneratorAPI(
   '{your_api_key}',
   '{your_api_secret}'
 );
-
+Client.setBaseUrl('https://us1.pdfgeneratorapi.com/api/v3/');
 Client.setWorkspace('{unique_workspace_identifier}');
 
 Client.getAll().then(function(response) {
