@@ -4,7 +4,7 @@
     "description": "JavaScript module for pdfgeneratorapi.com",
     "main": "index.js",
     "dependencies": {
-        "axios": "^0.17.1"
+        "axios": "^0.19.0"
     },
     "directories": {
         "test": "test"
