@@ -3,6 +3,7 @@
     "version": "1.0.1",
     "description": "JavaScript module for pdfgeneratorapi.com",
     "main": "index.js",
+    "types": "./index.d.ts",
     "dependencies": {
         "axios": "^0.19.0"
     },
